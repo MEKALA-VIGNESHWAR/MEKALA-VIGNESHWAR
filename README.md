@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi, I'm Mekala Vigneshwar 👋
 
-<!--
-**MEKALA-VIGNESHWAR/MEKALA-VIGNESHWAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student at CVR College of Engineering
+💻 Java Developer | Data Structures | Firebase
+🚀 Interested in Full Stack Development and Problem Solving
 
-Here are some ideas to get you started:
+Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- C
+- Python
+- Firebase
+- HTML, CSS, JavaScript
+- Data Structures & Algorithms
+
+Projects
+
+- 🏥 Health Risk Prediction System
+- 🏦 Java Banking Application
+- 🌐 Mini Web Project
+
+Current Focus
+
+- Solving DSA problems
+- Improving development skills
+- Building professional projects
