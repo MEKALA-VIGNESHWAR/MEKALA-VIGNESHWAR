@@ -1,71 +1,88 @@
-<h1 align="center">Hi 👋, I'm Mekala Vigneshwar Reddy</h1>
-<h3 align="center">B.Tech Student | Java Developer | DSA Enthusiast | Full Stack Learner 🚀</h3>
+<div align="center">
 
+# 🚀 Hi, I'm Mekala Vigneshwar Reddy
+
+### 💻 Java Developer | DSA Enthusiast | Full Stack Learner | ML Builder
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Developer;DSA+Problem+Solver;Spring+Boot+Learner;Machine+Learning+Enthusiast;Future+Software+Engineer" />
+
+</div>
+
+---
+
+## 💎 About Me
+```text
+🎓 B.Tech @ CVR College of Engineering
+💻 Passionate about Java, DSA, Full Stack, AI/ML
+🔥 Solving coding problems daily
+🚀 Building real-world projects
+🎯 Goal: 300+ DSA problems + placement-ready portfolio
+```
+
+---
+
+## 🛠 Tech Arsenal
 <p align="center">
-  Passionate about building impactful projects in <b>Java, Machine Learning, and Web Development</b>  
-  while continuously improving problem-solving and development skills.
+  <img src="https://skillicons.dev/icons?i=java,c,python,html,css,javascript,spring,firebase,mysql,git,github,vscode" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 B.Tech Student at **CVR College of Engineering**
-- 💻 Strong in **Java, C, Python, DSA**
-- 🚀 Interested in **Full Stack Development & Machine Learning**
-- 🔥 Currently solving **DSA problems daily**
-- 🎯 Goal: **Solve 300+ problems & build production-ready projects**
-- 🌱 Currently learning **Spring Boot, Firebase, and modern web technologies**
-
----
-
-## 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,python,html,css,javascript,firebase,mysql,git,github,vscode" />
-</p>
-
----
-
-## 🚀 Featured Projects
+## 🚀 Premium Project Showcase
 
 ### 🏥 Health Risk Prediction System
-Machine learning based web application that predicts possible health risks based on user inputs and displays results in an interactive dashboard.
+AI-powered web application that predicts health risks using ML models with interactive dashboard analytics.
 
 ### 🏦 Java Banking Application
-A Java-based project implementing OOP concepts such as classes, inheritance, encapsulation, and transaction handling.
+Robust OOP-based banking system using Java with account management and transaction logic.
 
-### 🌐 Mini Web Project
-Responsive frontend project using HTML, CSS, and JavaScript.
+### 🌐 Full Stack Projects
+Frontend + backend applications with authentication, dashboards, and modern UI.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MEKALA-VIGNESHWAR&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEKALA-VIGNESHWAR&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MEKALA-VIGNESHWAR&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEKALA-VIGNESHWAR&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🔥 Current Focus
-- 📚 Mastering Data Structures & Algorithms
-- 🚀 Building full-stack projects
-- 🤖 Exploring AI / ML projects
-- 💼 Preparing for placements and internships
-
----
-
-## 🌐 Connect With Me
+## 🔥 Streak Stats
 <p align="center">
-  <a href="YOUR_LINKEDIN_LINK">LinkedIn</a> •
-  <a href="YOUR_GITHUB_LINK">GitHub</a> •
-  <a href="YOUR_CODECHEF_LINK">CodeChef</a>
+  <img src="https://streak-stats.demolab.com?user=MEKALA-VIGNESHWAR&theme=tokyonight" />
 </p>
 
 ---
 
+## 🏆 Achievements
 <p align="center">
-  ⭐ <i>Always learning, building, and growing as a developer</i> ⭐
+  <img src="https://github-profile-trophy.vercel.app/?username=MEKALA-VIGNESHWAR&theme=tokyonight&row=1&column=6" />
 </p>
+
+---
+
+## 🎯 Current Mission
+- 🔥 Reach 300 DSA problems
+- 🚀 Build placement-ready projects
+- 💼 Crack top internships
+- 🤖 Explore AI + Spring Boot
+
+---
+
+## 🌐 Connect
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINK)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge)](YOUR_LINK)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Code. Build. Repeat. Win. ⭐
+
+</div>
