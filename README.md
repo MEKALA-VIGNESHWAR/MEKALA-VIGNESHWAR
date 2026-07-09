@@ -1,88 +1,90 @@
 <div align="center">
 
-# 🚀 Hi, I'm Mekala Vigneshwar Reddy
+# 🚀 Mekala Vigneshwar Reddy
+### Java Developer | Data Structures & Algorithms Enthusiast | Full-Stack & ML Engineer
 
-### 💻 Java Developer | DSA Enthusiast | Full Stack Learner | ML Builder
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](YOUR_LEETCODE_URL)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4636?style=for-the-badge&logo=codechef&logoColor=white)](YOUR_CODECHEF_URL)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Developer;DSA+Problem+Solver;Spring+Boot+Learner;Machine+Learning+Enthusiast;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;DSA+Problem+Solver;Spring+Boot+Architect;Machine+Learning+Explorer" />
 
 </div>
 
 ---
 
-## 💎 About Me
-```text
-🎓 B.Tech @ CVR College of Engineering
-💻 Passionate about Java, DSA, Full Stack, AI/ML
-🔥 Solving coding problems daily
-🚀 Building real-world projects
-🎯 Goal: 300+ DSA problems + placement-ready portfolio
-```
+## 💫 About Me
+I am a passionate **Computer Science & Data Science** student at CVR College of Engineering, dedicated to building scalable backend systems, optimizing algorithmic solutions, and exploring intelligent data-driven applications. 
+
+* 🧠 **Problem Solving:** Actively solving complex algorithmic challenges daily (Targeting 300+ optimized solutions).
+* ⚙️ **Backend Engineering:** Deepening expertise in Java, Object-Oriented Programming (OOP), and Spring Boot frameworks.
+* 📊 **Data & Intelligence:** Bridging the gap between software engineering and Machine Learning to build smart applications.
 
 ---
 
-## 🛠 Tech Arsenal
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,python,html,css,javascript,spring,firebase,mysql,git,github,vscode" />
+## 🛠️ Technical Arsenal
+
+### 💻 Core Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,c,python,javascript" />
+</p>
+
+### 🌐 Frameworks, Databases & Ecosystems
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,html,css,mysql,firebase" />
+</p>
+
+### 🔧 Developer Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-## 🚀 Premium Project Showcase
+## 🚀 Featured Projects
 
 ### 🏥 Health Risk Prediction System
-AI-powered web application that predicts health risks using ML models with interactive dashboard analytics.
+*An AI-powered web platform designed to analyze patient metrics and predict potential health risks through machine learning models.*
+* **Tech Stack:** Python, Machine Learning Libraries, Frontend Dashboards
+* **Key Features:** End-to-end data pipeline, predictive modeling, interactive diagnostic analytics dashboard.
+* **📂 [View Repository](#) | [Live Demo](#)**
 
-### 🏦 Java Banking Application
-Robust OOP-based banking system using Java with account management and transaction logic.
+### 🏦 Advanced Java Banking System
+*A robust, console/desktop-based financial application focusing on strict Object-Oriented Design and transaction safety.*
+* **Tech Stack:** Java (Core OOP, Collections Framework, Exception Handling), MySQL
+* **Key Features:** Secure account management, real-time transaction logging, and structural design patterns for scale.
+* **📂 [View Repository](#)**
 
-### 🌐 Full Stack Projects
-Frontend + backend applications with authentication, dashboards, and modern UI.
-
----
-
-## 📊 GitHub Analytics
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MEKALA-VIGNESHWAR&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEKALA-VIGNESHWAR&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MEKALA-VIGNESHWAR&theme=tokyonight" />
-</p>
+### 📜 Digital Ledger for Informal Savings Circles
+*A collaborative platform aimed at formalizing trust-based community savings and credit groups through an immutable digital ledger.*
+* **Tech Stack:** Full-Stack Web Development, Authentication, Real-time Databases
+* **Key Features:** Multi-user ledger management, secure identity verification, and transparent contribution tracking.
+* **📂 [View Repository](#)**
 
 ---
 
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MEKALA-VIGNESHWAR&theme=tokyonight&row=1&column=6" />
-</p>
+## 📊 GitHub Performance Metrics
 
----
-
-## 🎯 Current Mission
-- 🔥 Reach 300 DSA problems
-- 🚀 Build placement-ready projects
-- 💼 Crack top internships
-- 🤖 Explore AI + Spring Boot
-
----
-
-## 🌐 Connect
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MEKALA-VIGNESHWAR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEKALA-VIGNESHWAR&layout=compact&theme=tokyonight" />
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINK)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge)](YOUR_LINK)
-
+### 🔥 Consistency & Achievements
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=MEKALA-VIGNESHWAR&theme=tokyonight" /><br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MEKALA-VIGNESHWAR&theme=tokyonight&row=1&column=6" />
 </div>
 
 ---
 
+## 🎯 Current Focus & Goals
+* 🚀 **Algorithmic Mastery:** Scaling past 300+ high-quality DSA problem solutions on LeetCode/CodeChef.
+* 🌐 **Enterprise Software:** Building production-ready, RESTful microservices using Spring Boot.
+* 💼 **Career Trajectory:** Seeking an impactful Summer Internship / Graduate Software Engineer role.
+
+***
+
 <div align="center">
-
-### ⭐ Code. Build. Repeat. Win. ⭐
-
+  <h3>⚡ "Optimizing code, scaling systems, solving complexity." ⚡</h3>
 </div>
