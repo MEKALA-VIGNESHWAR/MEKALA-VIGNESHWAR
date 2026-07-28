@@ -84,26 +84,37 @@ An AI-powered healthcare platform that analyzes user data and predicts potential
 
 ---
 
-## 🏦 Banking Management System
+## 🚀 HackForge — Enterprise Hackathon Operating System
 
-A desktop banking application built using Java and MySQL.
+A production-ready, enterprise-grade SaaS platform that manages the complete hackathon lifecycle with secure authentication, real-time collaboration, cloud deployment, and role-based dashboards.
 
 ### Tech Stack
 
-* Java
-* Swing
-* JDBC
-* MySQL
+* Java 21
+* Spring Boot 3
+* React 19 + Vite
+* PostgreSQL
+* Redis
+* RabbitMQ
+* AWS S3
+* Docker
+* Kubernetes
+* GitHub Actions
 
-### Features
+### Key Features
 
-* Secure login system
-* Deposit and withdrawal
-* Fund transfer
-* Transaction history
-* Balance enquiry
+* 👑 Multi-role dashboards for Admins, Judges, Mentors, Sponsors, and Participants
+* 🔐 Enterprise security with JWT authentication, Refresh Tokens, RBAC, BCrypt, Bucket4j rate limiting, and Redis-backed session management
+* ⚡ Real-time leaderboards, announcements, and notifications using WebSockets (STOMP/SockJS)
+* 📁 Secure AWS S3 file uploads with validation and malware-safe checks
+* 📊 Monitoring and observability using Prometheus, Grafana, Spring Boot Actuator, and Sentry
+* 🐳 Cloud-native deployment with Docker, Kubernetes, Nginx, and CI/CD via GitHub Actions
+* 📈 PostgreSQL with Flyway migrations and optimized database indexing
+* 🔄 Asynchronous processing using RabbitMQ with Dead Letter Queue (DLQ) support
 
----
+🌐 **Live Demo:** https://hackforge-nlb2.onrender.com
+
+🔗 **Repository:** https://github.com/MEKALA-VIGNESHWAR/HackForge
 
 # 📊 GitHub Statistics
 
