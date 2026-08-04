@@ -50,28 +50,126 @@ When I am not optimizing queries or configuring container deployments, I focus o
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### [HackForge — Enterprise Hackathon Operating System](https://github.com/MEKALA-VIGNESHWAR/HackForge)
-> **A production-ready SaaS platform managing the complete hackathon lifecycle with secure authentication, real-time collaboration, cloud deployment, and multi-tenant dashboards.**
+<div align="center">
 
-* **Architecture:** Designed a highly decoupled, scalable backend using **Spring Boot 3** and **Java 21**, backed by **PostgreSQL**.
-* **Performance & Real-time:** Integrated **Redis** for efficient session management/caching and implemented WebSockets (STOMP/SockJS) for live leaderboards and notifications.
-* **Security & Reliability:** Built enterprise-grade security featuring **JWT Authentication, Refresh Tokens, RBAC**, and rate limiting. Handled asynchronous processing and DLQs via **RabbitMQ**.
-* **DevOps & Cloud:** Containerized the application ecosystem using **Docker** and **Kubernetes**. Managed secure file uploads via **AWS S3** and established automated CI/CD pipelines via **GitHub Actions**. Setup monitoring with **Prometheus & Grafana**.
+| 🏆 Project | Description | Tech Stack |
+|:---------:|:-----------|:----------|
+| <img src="https://img.shields.io/badge/🩺-PulseMind-00C896?style=for-the-badge"/> | AI-powered Clinical Healthcare Platform | React • Spring Boot • PostgreSQL • AI |
+| <img src="https://img.shields.io/badge/⚡-HackForge-FF6B35?style=for-the-badge"/> | Enterprise Hackathon Operating System | React • Spring Boot • PostgreSQL • Docker |
 
-**Tech Stack:** `Java 21` `Spring Boot 3` `React` `PostgreSQL` `Redis` `RabbitMQ` `Docker` `Kubernetes` `AWS S3` `WebSockets`
-
-### [Health Risk Prediction System](https://github.com/MEKALA-VIGNESHWAR/health-risk-prediction)
-> **An AI-powered healthcare platform that analyzes user data and predicts potential health risks via an intuitive dashboard.**
-
-* **Implementation:** Built the backend logic with **Spring Boot** and **Node.js**, integrated with a responsive **React** frontend for real-time health analytics.
-* **Data & Security:** Implemented secure user authentication and data synchronization leveraging **Firebase**.
-* **Impact:** Developed interactive reporting modules for physicians and patients to seamlessly visualize predictive risk models.
-
-**Tech Stack:** `Spring Boot` `React` `Node.js` `JavaScript` `Firebase`
+</div>
 
 ---
+
+## 🩺 PulseMind
+### AI-Powered Clinical Healthcare Platform
+
+> Transforming healthcare with **Artificial Intelligence**, **Real-Time Monitoring**, and **Predictive Analytics**.
+
+<p align="center">
+
+[![React](https://img.shields.io/badge/Frontend-React-61DAFB?style=flat-square&logo=react&logoColor=white)]()
+[![Spring Boot](https://img.shields.io/badge/Backend-Spring%20Boot-6DB33F?style=flat-square&logo=springboot)]()
+[![Postgres](https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=flat-square&logo=postgresql)]()
+[![AI](https://img.shields.io/badge/AI-Integrated-8A2BE2?style=flat-square)]()
+
+</p>
+
+### ✨ Key Features
+
+- 🧠 AI-powered disease risk prediction
+- ❤️ Real-time patient health monitoring
+- 📊 Interactive clinical dashboards
+- 🔒 Secure JWT authentication
+- 📄 Medical report analysis
+- 🤖 AI symptom assistant
+- 📈 Predictive healthcare analytics
+- ☁️ Cloud-ready architecture
+
+### 🛠 Tech Stack
+
+```text
+React • TypeScript • TailwindCSS
+Spring Boot • Spring Security
+PostgreSQL • JPA
+OpenAI API • Docker
+GitHub Actions
+```
+
+<div align="center">
+
+### 🔗 Explore PulseMind
+
+[![Repository](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/MEKALA-VIGNESHWAR/PulseMind)
+
+</div>
+
+---
+
+# ⚡ HackForge
+
+### Enterprise Hackathon Operating System
+
+> An all-in-one SaaS platform for organizing modern hackathons with AI-powered workflows, real-time collaboration, and scalable infrastructure.
+
+<p align="center">
+
+[![React](https://img.shields.io/badge/Frontend-React-61DAFB?style=flat-square&logo=react)]()
+[![Spring Boot](https://img.shields.io/badge/Backend-Spring%20Boot-6DB33F?style=flat-square&logo=springboot)]()
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)]()
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis)]()
+
+</p>
+
+### ✨ Key Features
+
+- 🏢 Multi-tenant architecture
+- 👥 Role-based dashboards
+- ⚡ Live leaderboards
+- 🏆 Automated scoring
+- 📂 Project submissions
+- 🤝 Mentor & Judge portal
+- 💰 Sponsor dashboard
+- 📜 Auto certificate generation
+- 🔔 Real-time notifications
+- 📊 Analytics dashboard
+- 🔒 Enterprise security
+- ☁️ Kubernetes-ready deployment
+
+### 🛠 Tech Stack
+
+```text
+React • TypeScript • TailwindCSS
+Spring Boot • Spring Security
+PostgreSQL • Redis
+RabbitMQ • Docker
+Kubernetes • AWS S3
+GitHub Actions
+```
+
+<div align="center">
+
+### 🔗 Explore HackForge
+
+[![Repository](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/MEKALA-VIGNESHWAR/HackForge)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌟 More Coming Soon
+
+Building scalable products with
+
+**Java • Spring Boot • React • AI • Cloud • DevOps**
+
+⭐ If you like my work, consider giving these repositories a star!
+
+</div>
 
 ## ⚙️ Engineering Highlights
 
